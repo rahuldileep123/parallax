@@ -10,6 +10,9 @@
     overflow-y: auto;
     
 }
+.wrapper::-webkit-scrollbar{
+    display: none;
+}
 .mountain{
     width: 100%;
     height: 100%;
